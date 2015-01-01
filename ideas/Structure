@@ -1,0 +1,19 @@
+TimelinePage
+	+Link to Me Page
+	+Timeline
+		+Experiences
+			+Title
+			+Description
+			+Time
+			+Skills[]
+			+Link to Article
+	+Contact
+		+Following will be stored in a database:
+			+Name
+			+Email
+			+Message
+Me
+	+Paragraph about me and my interests
+	+Search by anything
+Article
+	+Html File

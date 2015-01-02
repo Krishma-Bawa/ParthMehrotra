@@ -1,7 +1,7 @@
-This is the webapp at [ParthMehrotra.com]
+This is the webapp at [http://ParthMehrotra.com]
 =========================================
 
-It is built on [Google App Engine](https://cloud.google.com/appengine/docs)
+It is built upon [Google App Engine](https://cloud.google.com/appengine/docs)
 
 To install the framework execute the following
 ----------------------------------------------
@@ -18,3 +18,4 @@ To run the app locally execute the following in root of the directory
 ```shell
 dev_appserver.py .
 ```
+
